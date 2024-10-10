@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>layoul con flexbox</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100hv;
+            margin: 0;
+        }
+        .contenedor {
+            display: flex;
+            justify-items: space-around;
+            width: 90%;
+            background-color: rgb(171, 224, 189);
+            height: 400px;
+
+        }
+        .caja {
+            background-color: rgb(155, 116, 99);
+            color: white;
+            padding: 20px;
+            width: 30%;
+            text-align: center;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <div class="caja">Esta es la caja 1</div>
+        <div class="caja">Esta es la caja 2</div>
+        <div class="caja">Esta es la caja 3</div>
+    </div>
+
+</body>
+</html>
