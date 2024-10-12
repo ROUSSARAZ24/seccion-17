@@ -53,7 +53,7 @@ body{
 }
 /*estilos de botones y formularios*/
 input button{
-    padding: 10px;
+    padding: 20px;
     margin: 5px 0;
     border-radius: 4px;
     border: 1px;
