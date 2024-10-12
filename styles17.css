@@ -8,7 +8,7 @@ color: #333;
 
 }
 header{
-    background-color: rgb(70, 218, 70);
+    background-color: rgb(121, 240, 121);
     color: white;
     text-align: center;
     padding: 20px;
@@ -20,7 +20,19 @@ section{
     background-color: #ffff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    
 
 }
+h2{
+    color: #4cf450;
 
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    background-color: #333;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
