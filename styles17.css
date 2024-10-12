@@ -1,0 +1,17 @@
+/* Estilos generales para la pagina*/
+body{
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+background-color:#f4f4f4;
+margin: 0;
+padding: 0;
+color: #333;
+
+}
+header{
+    background-color: rgb(70, 218, 70);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+
